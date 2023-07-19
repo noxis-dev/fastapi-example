@@ -18,11 +18,6 @@ During development, it is recommended to use the Remote Container environment.
 The VSCode extension is required.
 ![https://gyazo.com/7a96393b28b39a4066d5fb3a6e2d35ca](https://gyazo.com/7a96393b28b39a4066d5fb3a6e2d35ca/raw)
 
-This allows you to run Python and execute libraries within the Docker environment.
-Once you open the project root folder in VSCode, a pop-up will appear in the lower right corner. Click on it to reopen the project.
-Alternatively, you can open the menu from the lower left corner >< icon and choose "Connect to Container".
-During the initial connection, it may take some time to install Pylance, and errors may occur. If that happens, relaunch it again.
-
 ## Adding Libraries
 
 ```

@@ -2,7 +2,7 @@
 
 This API accepts a receipt image URL or file, converts it into JSON, and returns it.
 
-![Gyazo](https://gyazo.com/d2e1fe63d4fb5dfcf407e8a87485b161/raw)
+![Gyazo](https://gyazo.com/a3638fed38130d424b052605d3138cf5/raw)
 
 ## Implementation Considerations
 

@@ -1,3 +1,9 @@
+## Receipt-to-JSON API
+
+This API accepts a receipt image URL or file, converts it into JSON, and returns it.
+
+![Gyazo](https://gyazo.com/644e711aece3a8440464bfa96a0457ba/raw)
+
 ## Implementation Considerations
 
 Please refer to the [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) repository for implementing FastAPI best practices.
